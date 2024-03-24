@@ -1,7 +1,7 @@
 <h1 align="center">Mucho gusto 👋, soy Rodrigo Rivera</h1>
 <h3 align="center">Estudiante de Lic. Informática en la Universidad Tecnológica de El Salvador</h3>
 
-- 🔭 Actualmente me encuentro trabajando en: [VotosVirtuales](https://github.com/Agdrael/votosVirtuales)
+- 🔭 Actualmente me encuentro trabajando en: [Blog usando Motoko](https://github.com/Agdrael/ICP_Blog)
 
 - 🌱 Estoy aprendiendo a utilizar: **Windows Form .Net**
 
